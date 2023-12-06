@@ -113,6 +113,6 @@
 - npc 랜덤 이동 시스템
 - 환경설정 시스템
 
-자세한 내용은 아래에서 확인 가능합니다. 
-Blog : https://ljhyunstory.tistory.com/251
+자세한 내용은 아래에서 확인 가능합니다.   
+Blog : https://ljhyunstory.tistory.com/251   
 YouTube : https://www.youtube.com/watch?v=JC8OpP2VZQo
