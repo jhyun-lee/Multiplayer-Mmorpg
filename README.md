@@ -6,7 +6,8 @@
 -------------
 - 맵의 경우 사막, 바다, 설원, 숲등의 지형을 언리얼의 랜드스케이프 기능을 이용하여 구현해 보았습니다.  
 - 각 지형 마다의 특색있는 bgm을 따로 설정해 주었습니다.
-     
+
+***
 ![img1 daumcdn](https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/21347148-4936-469e-a8c0-f2873ddcacb3)
 ![img1 daumcdn](https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/7d1f7613-aa00-42d3-8188-aed368da1065)
 
@@ -16,7 +17,7 @@
 ![img1 daumcdn](https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/bfdf1148-d830-406b-bc09-8b605ef68266)
 ![img1 daumcdn](https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/c8e62508-19ba-4907-9882-b3a7c60acd67)
 ![img1 daumcdn](https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/f5aa8f53-f476-4ddc-bd2d-c90524c3bc15)
-   
+***
    
    
    
@@ -27,12 +28,11 @@
 
 <img src="https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/bb544765-1d21-440c-a7df-adf91dc6a3a3" width="50%" height="50%"></img>
 
-
 - 몬스터와 일부 npc들을 blender와 무료 텍스쳐를 통해 제작해 보았습니다.
 - 이동, 공격 모션 또한 뼈대를 구축하여 제작해 보았습니다.
 
    <img src="https://github.com/jhyun-lee/UnrealProject-2022_9-12/assets/100923108/1024c0b6-9ffb-41a7-9b07-18db08709f78" width="50%" height="50%"></img>
-
+***
 
 
 
@@ -108,6 +108,11 @@
 
 
 
-그 외  
-단축키 시스템
-npc ai 시스템
+그 외 시스템  
+- 단축키 시스템
+- npc 랜덤 이동 시스템
+- 환경설정 시스템
+
+자세한 내용은 아래에서 확인 가능합니다. 
+Blog : https://ljhyunstory.tistory.com/251
+YouTube : https://www.youtube.com/watch?v=JC8OpP2VZQo
